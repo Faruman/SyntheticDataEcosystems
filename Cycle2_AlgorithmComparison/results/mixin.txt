@@ -1,0 +1,4 @@
+{"discover": 61%,
+ "mastercard": 6%,
+ "visa": 16%,
+ "american express": 81%}

@@ -1,0 +1,1 @@
+sitepackages build on the privacy metrics used in A Multifaceted benchmarking of synthetic electronic health record generation models (https://www.nature.com/articles/s41467-022-35295-1)

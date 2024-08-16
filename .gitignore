@@ -1,0 +1,10 @@
+.idea
+.venv
+
+**/data
+**/synth
+**/wandb
+**/working
+**/model
+
+*_hidden*

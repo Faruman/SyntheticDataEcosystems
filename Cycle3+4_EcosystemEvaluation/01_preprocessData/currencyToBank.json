@@ -1,0 +1,17 @@
+{
+  "US Dollar": "North America Bank",
+  "Euro": "Europe Bank",
+  "Yuan": "Asia Bank",
+  "Rupee": "Asia Bank",
+  "Canadian Dollar": "North America Bank",
+  "Swiss Franc": "Europe Bank",
+  "Yen": "Asia Bank",
+  "UK Pound": "Europe Bank",
+  "Australian Dollar": "Australia Bank",
+  "Brazil Real": "South America Bank",
+  "Ruble": "Europe Bank",
+  "Mexican Peso": "North America Bank",
+  "Saudi Riyal": "Africa Bank",
+  "Shekel": "Africa Bank",
+  "Bitcoin": "Crypto Bank"
+}

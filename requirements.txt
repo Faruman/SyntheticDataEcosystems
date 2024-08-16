@@ -1,0 +1,14 @@
+pandas==2.0.3
+openpyxl==3.1.5
+prince==0.13.0
+scikit-learn==1.3.2
+tqdm==4.66.4
+torch==2.3.1
+sdv==1.15.0
+category_encoders==2.6.3
+wandb==0.17.5
+seaborn==0.13.2
+imbalanced-learn==0.12.3
+xgboost == 2.1.0
+geopy==2.4.1
+syntheval==1.4.1
