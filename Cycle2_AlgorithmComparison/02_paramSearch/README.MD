@@ -1,5 +1,5 @@
-# 02_paramSearch
-This file briefly outlines the hyperparameter lists and ranges tested for each algorithm.
+# Cycle 2 - 02_paramSearch
+This file briefly outlines the hyperparameter lists and ranges tested for each algorithm as part of the algorithm evaluation in cycle 2 where we evaluated which algorithm works best for generating synthetic financial transaction data.
 
 ## GMM
 The hyperparameters tested for the TVAE model are as follows. A detailed explenation of the meaning of these hyperparameter can be found [here](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html).

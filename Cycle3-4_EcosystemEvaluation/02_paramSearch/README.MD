@@ -1,5 +1,5 @@
-# 02_paramSearch
-This file briefly outlines the hyperparameter lists and ranges tested for each algorithm.
+# Cycle 3/4 - 02_paramSearch
+This file briefly outlines the hyperparameter lists and ranges tested for each algorithm as part of the algorithm evaluation in cycle 3 and 4 where we evaluated different ways of generating synthetic data as well, mix-in of different amounts of real and synthetic data as the performance of external collaborators.
 
 ## TVAE
 The hyperparameters tested for the TVAE model are as follows. A detailed explenation of the meaning of these hyperparameter can be found [here](https://docs.sdv.dev/sdv/single-table-data/modeling/synthesizers/tvaesynthesizer).
