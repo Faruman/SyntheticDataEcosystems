@@ -3,7 +3,7 @@ In the second cycle of the DSRM project, DP2 was refined by exploring various me
 
 ## Requirement Engineering and Design Principle Development
 ### Literature Review
-- [literatureReview.xlsx](LiteratureReview.xlsx) - contains information about the literature review conducted including the selected papers at each stage as well as the filter criteria.
+- [literatureReview.xlsx](literatureReview.xlsx) - contains information about the literature review conducted including the selected papers at each stage as well as the filter criteria.
 
 ### Expert Interviews
 - [InterviewInsights_Requirements.xlsx](InterviewInsights_Requirements.xlsx) - contains the insights from the expert interviews conducted in the first cycle of the project. The file contains a mapping from interview quotes to design requirements.

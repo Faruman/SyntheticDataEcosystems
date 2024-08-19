@@ -3,7 +3,7 @@
 ## Evaluation of the proposed Synthetic Data Sharing Ecosystem on additional datasets and analysis of network effects
 ### Instructions
 To run the code to conduct the exeriments described in the paper please follow the steps below:
-- Use the information provided in [DATA.MD](DATA.MD) to download the necessary data. 
+- Use the information provided in [DATA.MD](data.md) to download the necessary data. 
 - From the folder [01_preprocessData](01_preprocessData) run the scripts for the different datasets to preprocess the data and generate the necessary files for the experiments.
 - In the [02_paramSearch](02_paramSearch) folder run each of the listed scripts to conduct the hyperparameter search for the respective algorithm. Please note you need to be logged in to [wandb.ai](https://wandb.ai) for this to work.
 - Run [03_generateSyntheticData.py](03_generateSyntheticData.py) to generate the synthetic data using the best hyperparameters found in the previous step.

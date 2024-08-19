@@ -8,7 +8,7 @@ In the second cycle of the DSRM project, DP2 was refined by exploring various me
 ### Instructions
 To run the code to conduct the exeriments described in the paper please follow the steps below:
 
-1. Use the information provided in [DATA.MD](DATA.MD) to download the necessary data.
+1. Use the information provided in [DATA.MD](data.md) to download the necessary data.
 2. (Optional) Run [00_assessFeatureImportance.py](00_assessFeatureImportance.py) to assess the importance of the features in the dataset and generate some descriptive statistics.
 3. Run [01_preprocessData.py](01_preprocessData.py) to preprocess the data and generate the necessary files for the experiments.
 4. In the [02_paramSearch](02_paramSearch) folder run each of the listed scripts to conduct the hyperparameter search for the respective algorithm. Please note you need to be logged in to [wandb.ai](https://wandb.ai) for this to work.
