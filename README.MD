@@ -1,6 +1,6 @@
 # FinDEx: A Synthetic Data Sharing Ecosystem (Online Appendix)
 
-The following repository contains the online appendix for the paper FinDEx: A Synthetic Data Sharing Ecosystem. It not only provides the python code for all experiments conducted in the different design cycles but also background for literature reviews and intewrviews. Below you find the overall structure of the research project:
+The following repository contains the online appendix for the paper FinDEx: A Synthetic Data Sharing Ecosystem. It not only provides the Python code for all experiments conducted in the different design cycles but also the background for literature reviews and interviews. Below you will find the overall structure of the research project:
 
 ![project outline](ProjectOutline.png)
 
